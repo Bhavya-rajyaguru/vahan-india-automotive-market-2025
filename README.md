@@ -16,7 +16,7 @@ October stood out as soon as I plotted the year: recorded registrations went fro
 
 October was the busiest month in the selected VAHAN exports, with **4,170,511 registrations**, up **116.0%** from September. The fourth quarter reached **9.77 million**, up **61.2%** from Q3. The quarterly figure hides the reversal within those three months: registrations fell to **3.45 million in November** and **2.15 million in December**. December alone was down **37.8%** from November. PETROL registrations fell by **954,051** in that comparison; Hero MotoCorp had the largest decline among manufacturer labels (**599,239**).
 
-![Monthly VAHAN registration totals for 2025, with October highlighted](assets/monthly-trend.png)
+![Monthly VAHAN registration totals for 2025, with October highlighted](monthly-trend.png)
 
 ### 2. Which fuels and manufacturers accounted for the jump?
 
@@ -39,11 +39,11 @@ I also checked how concentrated registrations were. The ten largest manufacturer
 
 I also wanted to know how much the rankings depended on including smaller manufacturers. I reran them with minimum September counts of **100, 1,000 and 10,000**. Hero MotoCorp and Honda stayed first and second, while TVS moved from sixth to third as the cutoff rose. Raising the cutoff changes who qualifies for the ranking; each manufacturer’s share is still calculated against the full market total for that month.
 
-![Growth and share change for Suzuki Motorcycle India and Hero MotoCorp](assets/growth-vs-share.png)
+![Growth and share change for Suzuki Motorcycle India and Hero MotoCorp](growth-vs-share.png)
 
 ## Tableau dashboard tour
 
-[![Fuel Mix and Change dashboard showing monthly fuel shares, a growth heatmap and October contribution charts](assets/fuel-mix-and-change.png)](https://public.tableau.com/app/profile/bhavya.rajyaguru/viz/IndiaVehicleRegistrations2025/FuelMixandChange)
+[![Fuel Mix and Change dashboard showing monthly fuel shares, a growth heatmap and October contribution charts](fuel-mix-and-change.png)](https://public.tableau.com/app/profile/bhavya.rajyaguru/viz/IndiaVehicleRegistrations2025/FuelMixandChange)
 
 **If you only have a minute, start with the October waterfall.** It shows how the two petrol labels and all other fuels add up to the **2.24 million** net increase. From there, use the workbook tabs to explore the three views:
 
